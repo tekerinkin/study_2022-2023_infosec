@@ -4,8 +4,11 @@
 
 <a name="1.1.0"></a>
 ## [1.1.0] - 2023-09-09
-### Feat
+### Features
 - **main:** Add lab1/report, lab1/presentation, lab1/Archive
+
+[Unreleased]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/1.1.0...HEAD
+[1.1.0]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/1.0.0...1.1.0
 
 ## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
 
