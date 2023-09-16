@@ -2,6 +2,22 @@
 ## [Unreleased]
 
 
+<a name="1.2.0"></a>
+## [1.2.0] - 2023-09-16
+### Docs
+- Supplement CHANGELOG
+- Supplement CHANGELOG
+
+### Feat
+- **main:** Add lab/lab2
+
+
+[Unreleased]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/1.1.0...1.2.0
+<a name="unreleased"></a>
+## [Unreleased]
+
+
 <a name="1.1.0"></a>
 ## [1.1.0] - 2023-09-09
 ### Features
