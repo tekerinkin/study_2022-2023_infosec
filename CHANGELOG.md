@@ -2,6 +2,22 @@
 ## [Unreleased]
 
 
+<a name="3.0.0"></a>
+## [3.0.0] - 2023-09-23
+### Docs
+- Supplement CHANGELOG
+
+### Feat
+- Add labs/lab3/report & labs/lab3/presentation
+
+
+[Unreleased]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/3.0.0...HEAD
+[3.0.0]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/1.2.0...3.0.0
+
+<a name="unreleased"></a>
+## [Unreleased]
+
+
 <a name="1.2.0"></a>
 ## [1.2.0] - 2023-09-16
 ### Docs
