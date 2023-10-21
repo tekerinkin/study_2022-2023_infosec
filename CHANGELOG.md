@@ -2,6 +2,22 @@
 ## [Unreleased]
 
 
+<a name="7.0.0"></a>
+## [7.0.0] - 2023-10-21
+### Docs
+- Supplement CHANGELOG.md
+
+### Fix
+- Add Lab7
+
+
+[Unreleased]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/7.0.0...HEAD
+[7.0.0]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/6.0.0...7.0.0
+
+<a name="unreleased"></a>
+## [Unreleased]
+
+
 <a name="6.0.0"></a>
 ## [6.0.0] - 2023-10-14
 ### Docs
