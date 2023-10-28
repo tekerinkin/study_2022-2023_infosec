@@ -2,6 +2,20 @@
 ## [Unreleased]
 
 
+<a name="8.0.0"></a>
+## [8.0.0] - 2023-10-28
+### Docs
+- Supplement CHANGELOG
+
+
+[Unreleased]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/8.0.0...HEAD
+[8.0.0]: https://github.com/tekerinkin/study_2022-2023_infosec/compare/7.0.0...8.0.0
+
+
+<a name="unreleased"></a>
+## [Unreleased]
+
+
 <a name="7.0.0"></a>
 ## [7.0.0] - 2023-10-21
 ### Docs
